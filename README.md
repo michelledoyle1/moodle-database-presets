@@ -26,4 +26,4 @@ Description:
 * Rating and comments available on card in Single view. For added fun, add ratings of hearts, stars and thumbs up and allow students to rate one another.
 * Add entry experience similiar to layout of post
 
-### Download link: [Fadlet.zip](https://github.com/michelledoyle1/moodle-database-presets/raw/main/Finterest.zip)
+### Download link: [Finterest.zip](https://github.com/michelledoyle1/moodle-database-presets/raw/main/Finterest.zip)
