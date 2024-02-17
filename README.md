@@ -11,7 +11,7 @@ Description:
 * Name and date truncates
 * Add entry experience similiar to layout of post
 
-Suggested date formate is DD/MM/YYYY or MM/DD/YYYY for better screen size. Works with Database higher than 4.1, which uses 'Action menu' shortcode.
+Suggested date format is DD/MM/YYYY or MM/DD/YYYY for better screen size. Works with Database higher than 4.1, which uses 'Action menu' shortcode.
 
 Inspired by Padlet, Pinterest and Milanote, etc.
 
