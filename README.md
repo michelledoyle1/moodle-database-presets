@@ -15,8 +15,6 @@ Suggested date formate is DD/MM/YYYY or MM/DD/YYYY for better screen size. Works
 
 Inspired by Padlet, Pinterest and Milanote, etc.
 
-Original masonry code and truncate code by [Stephan Robotta](https://github.com/srobotta).
-
 ### Download link: [Fadlet.zip](https://github.com/michelledoyle1/moodle-database-presets/raw/main/Fadlet%201.0%20.zip)
 
 ## Finterest 1.0
@@ -27,3 +25,25 @@ Description:
 * Add entry experience similiar to layout of post
 
 ### Download link: [Finterest.zip](https://github.com/michelledoyle1/moodle-database-presets/raw/main/Finterest.zip)
+
+## Journal truncate
+Description:
+* Journal truncates at 4 lines to stop scroll of death
+* Very simple intervention but improves the teacher's experience and scalability of a journal activity
+
+### Download link: [Journal truncate.zip](https://github.com/michelledoyle1/moodle-database-presets/raw/main/Journal%20truncate.zip)
+
+## Credits
+
+Original masonry code and truncate code by [Stephan Robotta](https://github.com/srobotta). His kindness and generosity on the Moodle user forum has really helped me grow as a developer.
+
+[Florian Dagner](https://github.com/fdagner)'s sticky notes and other Database presets also really inspired me.
+
+Moodle Database forum
+
+ChatGPT - in the interest of transparency I credit this tool for much of the javascript work.
+
+## Warning
+
+I'm not a coder, I just have problems I gotta solve! These might break.
+These presets will need syncing with your layout and only work if you have ##actionsmenu## which is available in more recent Moodle Database upgrades.
