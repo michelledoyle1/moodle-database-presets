@@ -35,7 +35,7 @@ Description:
 
 ## Credits
 
-Original masonry code and truncate code by [Stephan Robotta](https://github.com/srobotta). His kindness and generosity on the Moodle user forum has really helped me grow as a developer.
+Original masonry code and truncate code by [Stephan Robotta](https://github.com/srobotta). His kindness by sharing this code has really fed my creativity.
 
 [Florian Dagner](https://github.com/fdagner)'s sticky notes and other Database presets also really inspired me.
 
