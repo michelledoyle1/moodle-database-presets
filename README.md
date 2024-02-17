@@ -35,7 +35,7 @@ Description:
 
 ## Credits
 
-* Original masonry code and truncate code by [Stephan Robotta](https://github.com/srobotta). His kindness by sharing this code has really fed my creativity.
+* Masonry and truncate code by [Stephan Robotta](https://github.com/srobotta). His kindness by sharing this code has really fed my creativity.
 * [Florian Dagner](https://github.com/fdagner)'s sticky notes and other Database presets also really inspired me.
 * [Moodle Database forum](https://moodle.org/mod/forum/view.php?id=3505) endless inspiration and support from the community.
 * ChatGPT - in the interest of transparency I credit this tool for much of the javascript work and cleanup in my code.
