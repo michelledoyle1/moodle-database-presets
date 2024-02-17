@@ -12,6 +12,6 @@ Description:
 
 Suggested date formate is DD/MM/YYYY or MM/DD/YYYY for better screen size. Works with Database higher than 4.1, which uses 'Action menu' shortcode.
 
-Original masonry code and truncate code by [Stephan Robotta](https://github.com/srobotta) My work on this would not be possible without his kindness and generosity on the Moodle user forum
+Original masonry code and truncate code by [Stephan Robotta](https://github.com/srobotta). My work on this would not be possible without his kindness and generosity on the Moodle user forum.
 
 **Download link: [Fadlet.zip](https://github.com/michelledoyle1/moodle-database-presets/raw/main/Fadlet%201.0%20.zip)**
