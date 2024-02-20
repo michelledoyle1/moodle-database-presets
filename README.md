@@ -15,7 +15,7 @@ Suggested date format is DD/MM/YYYY or MM/DD/YYYY for better screen size. Works 
 
 Inspired by Padlet, Pinterest and Milanote, etc.
 
-### Download link: [Fadlet.zip](https://github.com/michelledoyle1/moodle-database-presets/raw/main/Fadlet%201.0%20.zip)
+### Download link: [Fadlet.zip](https://github.com/michelledoyle1/moodle-database-presets/raw/main/Fadlet.zip)
 
 ## Finterest 1.0
 Description:
