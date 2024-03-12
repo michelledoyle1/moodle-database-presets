@@ -1,7 +1,7 @@
 # moodle-database-presets
 Moodle Database Presets
 
-## Fadlet 1.0
+## Fadlet 1.1
 Description:
 * Masonry layout
 * Choose colours for a card
@@ -11,11 +11,17 @@ Description:
 * Name and date truncates
 * Add entry experience similiar to layout of post
 
+## Recent changes
+* Removed default white text from list view
+* Added 2 versions, one that allows for easy access of an image upload and the other is for a fully text based activity
+
 Suggested date format is DD/MM/YYYY or MM/DD/YYYY for better screen size. Works with Database higher than 4.1, which uses 'Action menu' shortcode.
 
 Inspired by Padlet, Pinterest and Milanote, etc.
 
-### Download link: [Fadlet.zip](https://github.com/michelledoyle1/moodle-database-presets/raw/main/Fadlet.zip)
+### Download links: 
+### [Fadlet just text.zip](https://github.com/michelledoyle1/moodle-database-presets/raw/main/Fadlet%20just%20text.zip)
+### [Fadlet with image.zip](https://github.com/michelledoyle1/moodle-database-presets/raw/main/Fadlet%20with%20image.zip)
 
 ## Finterest 1.0
 Description:
