@@ -11,7 +11,7 @@ Description:
 * Name and date truncates
 * Add entry experience similiar to layout of post
 
-## Recent changes
+### Recent changes
 * Removed default white text from list view
 * Added 2 versions, one that allows for easy access of an image upload and the other is for a fully text based activity
 
